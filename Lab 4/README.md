@@ -4,7 +4,7 @@
 
 ## Experiment Name :
 
-## Implementation of Auto-correlation using two signals (one delayed) and calculating the delay.
+## Experimental Study of Practical Application of Correlation
 
 ---
 
