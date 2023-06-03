@@ -1,0 +1,22 @@
+name: Octave CI
+
+on:
+  push:
+    branches: [ "test" ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Check out repository
+      uses: actions/checkout@v2
+
+    - name: Apply updates
+      run: sudo apt-get update
+
+    - name: Install Octave
+      run: sudo apt-get install octave
+
+    - name: Run Octave script
+      run: octave /home/runner/work/LabReports-4124/LabReports-4124/src/test.m
