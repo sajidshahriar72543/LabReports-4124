@@ -43,3 +43,6 @@
 | 02 | Implementation of circular convolution, sum and subtract of two signals and draw two particular figures in MATLAB. | [Lab 02](https://github.com/sajidshahriar72543/LabReports-4124/blob/master/Lab%202/README.md)
 | 03 | Experimental study of Auto correlation and Cross correlation of signals using MATLAB. | [Lab 03](https://github.com/sajidshahriar72543/LabReports-4124/blob/master/Lab%203/README.md)
 | 04 | Implementation of Auto-correlation using two signals (one delayed) and calculating the delay. | [Lab 04](https://github.com/sajidshahriar72543/LabReports-4124/blob/master/Lab%204/README.md)
+| 05 | Experimental Study of Practical Application of Causal, Non-causal and Anti causal Signals. | [Lab 05](https://github.com/sajidshahriar72543/LabReports-4124/blob/master/Lab%205/README.md)
+| 06 | Implementation of Discrete Time Fourier Transform. | [Lab 06](https://github.com/sajidshahriar72543/LabReports-4124/blob/master/Lab%206/README.md)
+| 07 | Implementation of Fast Time Fourier Transform using Butterfly Algorithm. | [Lab 07](https://github.com/sajidshahriar72543/LabReports-4124/blob/master/Lab%207/README.md)
