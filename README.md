@@ -14,6 +14,13 @@
 ### Rajshahi University of Engineering and Technology
 ### Rajshahi - 6204
 
+### **MD. Nahiduzzaman**
+### Lecturer
+### Department of Electrical and Computer Engineering
+### Rajshahi University of Engineering and Technology
+### Rajshahi - 6204
+
+
 <br>
 
 ## Submitted by:
