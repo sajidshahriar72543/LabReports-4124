@@ -47,3 +47,4 @@
 | 06 | Implementation of Discrete Time Fourier Transform. | [Lab 06](https://github.com/sajidshahriar72543/LabReports-4124/blob/master/Lab%206/README.md)
 | 07 | Implementation of Fast Time Fourier Transform using Butterfly Algorithm. | [Lab 07](https://github.com/sajidshahriar72543/LabReports-4124/blob/master/Lab%207/README.md)
 | 08 | Experimental Study of Finding DFT of Various Functions using Matrix Method. | [Lab 08](https://github.com/sajidshahriar72543/LabReports-4124/blob/master/Lab%208/README.md)
+| 09 | Experimental study of calculating FIR coefficient using Hamming and Kaiser window method. | [Lab 09](https://github.com/sajidshahriar72543/LabReports-4124/blob/master/Lab%209/README.md)
