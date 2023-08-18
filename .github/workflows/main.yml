@@ -18,5 +18,11 @@ jobs:
     - name: Install Octave
       run: sudo apt-get install octave
 
+    - name: Install libraries
+      run: sudo apt-get install octave-symbolic
+
+    - name: Load libraries
+      run: pkg load symbolic
+
     - name: Run Octave script
-      run: octave /home/runner/work/LabReports-4124/LabReports-4124/src/test.m
+      run: octave /home/runner/work/LabReports-4124/LabReports-4124/Lab_5/src/test.m
